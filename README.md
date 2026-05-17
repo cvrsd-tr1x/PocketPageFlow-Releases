@@ -4,14 +4,14 @@
 
 Latest installer:
 
-- `PocketPageFlow-Setup-1.1.0+4.exe`
+- `PocketPageFlow-Setup-1.1.0+5.exe`
 
 Portable ZIP:
 
-- `PocketPageFlow-Windows-Release-1.1.0+4.zip`
+- `PocketPageFlow-Windows-Release-1.1.0+5.zip`
 
 ### Run
 
-1. Download `PocketPageFlow-Setup-1.1.0+4.exe`.
+1. Download `PocketPageFlow-Setup-1.1.0+5.exe`.
 2. Run the installer.
 3. Launch PocketPageFlow from the desktop or Start Menu shortcut.
