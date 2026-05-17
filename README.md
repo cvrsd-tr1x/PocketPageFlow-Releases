@@ -1,5 +1,11 @@
 # PocketPageFlow Releases
 
+## Android
+
+Latest Play Store bundle:
+
+- `PocketPageFlow-Android-AAB-1.1.0+4.aab`
+
 ## Windows
 
 Latest desktop build:
