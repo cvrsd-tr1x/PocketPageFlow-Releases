@@ -8,10 +8,10 @@ Latest installer:
 
 Portable ZIP:
 
-- `PocketPageFlow-Windows-Release-1.1.0+5.zip`
+- `PocketPageFlow-Windows-Release-1.1.0+6.zip`
 
 ### Run
 
-1. Download `PocketPageFlow-Setup-1.1.0+5.exe`.
-2. Run the installer.
-3. Launch PocketPageFlow from the desktop or Start Menu shortcut.
+1. Download `PocketPageFlow-Windows-Release-1.1.0+6.zip` (or `PocketPageFlow-Setup-1.1.0+5.exe`).
+2. If you downloaded ZIP, extract it and run `pocket_book_reader.exe`.
+3. If you downloaded setup, run installer and launch PocketPageFlow from Start Menu.
